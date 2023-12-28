@@ -1,4 +1,5 @@
 use crate::core::SvgPolar;
+use leptos::*;
 use leptos::{component, view, IntoView};
 use theta_chart::{chart::ScaleNumber, color::Color, coord};
 

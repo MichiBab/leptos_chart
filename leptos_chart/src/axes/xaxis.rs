@@ -1,3 +1,4 @@
+use leptos::*;
 use leptos::{component, view, IntoView};
 use theta_chart::coord::{Axes, Rec};
 

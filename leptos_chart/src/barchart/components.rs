@@ -2,6 +2,7 @@ use crate::{
     axes::{XAxis, YAxis},
     core::SvgChart,
 };
+use leptos::*;
 use leptos::{component, view, IntoView};
 use theta_chart::{color::Color, coord, series::Series};
 
